@@ -1,8 +1,8 @@
 <div id="respond">
-                    <h3 class="reply-title">Leave a Comment</h3>
+                    <h3 class="reply-title">Để lại một bình luận</h3>
                     <form id="commentform">
                       <p class="comment-notes">
-                        Your email address will not be published. Required fields are marked <span class="required">*</span>
+                      Địa chỉ email của bạn sẽ không được công bố. Các trường bắt buộc được đánh dấu <span class="required">*</span>
                       </p>
                       <p class="comment-form-author">
                         <label for="author">Name <span class="required">*</span></label>

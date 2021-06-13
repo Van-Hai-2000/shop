@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">    
-    <title>Nông sản sạch Cần Thơ</title>
+    <title>Nhạc Cụ Hà Nội</title>
     
     <!-- Font awesome -->
     <link href="{{ url('public/frontend/css/font-awesome.css') }}" rel="stylesheet">
@@ -58,7 +58,7 @@
                 <!-- start language -->
                 
                 <div class="cellphone hidden-xs">
-                  <p>Ninh Kiều - Cần Thơ</p>
+                  <p>Cầu Giấy-Hà Nội</p>
                 </div>
                 <!-- / language -->
 
@@ -98,7 +98,7 @@
                 <!-- Text based logo -->
                 <a href="{!! URL('/') !!}">
                   <span class="fa fa-shopping-cart"></span>
-                  <p>Nông sản sạch <strong>Cần Thơ</strong> <span>Good food - Good health</span></p>
+                  <p>Nhạc Cụ Hà Nội<strong>Hà Nội</strong></p>
                 </a>
                 <!-- img based logo -->
                 <!-- <a href="index.html"><img src="img/logo.jpg" alt="logo img"></a> -->

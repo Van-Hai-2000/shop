@@ -29,7 +29,7 @@
            </div>
            <!-- contact map -->
            <div class="aa-contact-map">
-       <iframe src="https://www.google.com/maps/d/u/0/embed?mid=13vrwduCnaUSQawxXWjxneOgI-dU" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.6675161283947!2d105.79437641440768!3d21.045985492567077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab3adfc757c9%3A0x579278b4632b7fe5!2zMjM1IEhvw6BuZyBRdeG7kWMgVmnhu4d0LCBOZ2jEqWEgVMOibiwgQ-G6p3UgR2nhuqV5LCBIw6AgTuG7mWksIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1623573899960!5m2!1svi!2s" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
            </div>
            <!-- Contact address -->
            <div class="aa-contact-address">
@@ -61,11 +61,11 @@
                <div class="col-md-4">
                  <div class="aa-contact-address-right" style="font: tahoma, sans-serif;">
                    <address>
-                     <h4 style="font:24px tahoma, sans-serif; color:red;"><b><i>Nông sản sạch Cần Thơ</i></b></h4>
+                     <h4 style="font:24px tahoma, sans-serif; color:red;"><b><i>Shop Nhạc Cụ</i></b></h4>
                      <p>Chất lượng là hàng đầu</p>
-                     <p><span class="fa fa-home"></span>Ninh Kiều-Cần Thơ</p>
+                     <p><span class="fa fa-home"></span>Cầu Giấy-Hà Nội</p>
                      <p><span class="fa fa-phone"></span>0167.899.12.81</p>
-                     <p><span class="fa fa-envelope"></span>Email: nongsancantho@gmail.com</p>
+                     <p><span class="fa fa-envelope"></span>Email: nhaccu@gmail.com</p>
                    </address>
                  </div>
                </div>

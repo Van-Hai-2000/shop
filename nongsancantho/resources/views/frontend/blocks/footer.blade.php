@@ -36,34 +36,17 @@
                 </div>
               </div>
               <div class="col-md-3 col-sm-6">
-                <div class="aa-footer-widget">
-                  <!-- <div class="aa-footer-widget">
-                    <h3>Useful Links</h3>
-                    <ul class="aa-footer-nav">
-                      <li><a href="#">Site Map</a></li>
-                      <li><a href="#">Search</a></li>
-                      <li><a href="#">Advanced Search</a></li>
-                      <li><a href="#">Suppliers</a></li>
-                      <li><a href="#">FAQ</a></li>
-                    </ul>
-                  </div> -->
-                </div>
+                <div class="aa-footer-widget"></div>
               </div>
               <div class="col-md-4 col-sm-6">
                 <div class="aa-footer-widget">
                   <div class="aa-footer-widget">
                     <h3>Liên hệ</h3>
                     <address>
-                      <p>Ninh Kiều-Cần Thơ</p>
+                      <p>Cầu Giấy-Hà Nội</p>
                       <p><span class="fa fa-phone"></span>0167.899.12.81</p>
-                      <p><span class="fa fa-envelope"></span>nongsancantho@gmail.com</p>
+                      <p><span class="fa fa-envelope"></span>nhaccu@gmail.com</p>
                     </address>
-                    <!-- <div class="aa-footer-social">
-                      <a href="#"><span class="fa fa-facebook"></span></a>
-                      <a href="#"><span class="fa fa-twitter"></span></a>
-                      <a href="#"><span class="fa fa-google-plus"></span></a>
-                      <a href="#"><span class="fa fa-youtube"></span></a>
-                    </div> -->
                   </div>
                 </div>
               </div>
@@ -79,12 +62,8 @@
         <div class="row">
         <div class="col-md-12">
           <div class="aa-footer-bottom-area">
-            <p>Design by <a href="#">HanTrinh</a></p>
+            <p>Design by <a href="#">DHN</a></p>
             <div class="aa-footer-payment">
-              <!-- <span class="fa fa-cc-mastercard"></span>
-              <span class="fa fa-cc-visa"></span>
-              <span class="fa fa-paypal"></span>
-              <span class="fa fa-cc-discover"></span> -->
             </div>
           </div>
         </div>
